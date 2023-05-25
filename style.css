@@ -133,7 +133,7 @@ body {
 
 /* <-- Home Start --> */
 .home {
-    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(bac-img.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(/bac-img.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
